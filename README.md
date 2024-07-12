@@ -4,7 +4,8 @@ Olá! Meu nome é **Pedro Bezerra** e eu tenho 19 anos.
 
 ## Sobre Mim:
 - Localização: **Rio de Janeiro, Brasil**
-- **Atualmente estou buscando estágio para aprimorar minhas habilidades e meus conhecimentos, visando me desenvolver profissionalmente.**
+- **Atualmente estou cursando Análise e Desenvolvimento de Sistemas, no Centro Universitário IBMR**
+- **Busco estágio para aprimorar minhas habilidades e meus conhecimentos, visando me desenvolver profissionalmente.**
 - **Sou proativo, responsável e comunicativo. Sou bom trabalhando em equipe e gosto de aprender coisas novas.**
 
 ## Habilidades:

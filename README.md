@@ -13,13 +13,6 @@ Olá! Meu nome é [Pedro Bezerra].
 - Sistemas Operacionais: [Linux e Windows]
 - Cybersecurity: [Conhecimento sobre redes e computadores e Ethical Hacking (técnicas de invasão e uso de ferramentas no Kali Linux)]
 
-## Projetos
-
-Aqui estão alguns dos projetos em que tenho trabalhado:
-
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
-
 ## Interesses
 
 - Interessado em [Estágio como Desenvolvedor ou na área de Cybersecurity]

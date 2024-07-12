@@ -2,7 +2,7 @@
 Olá! Meu nome é [Pedro Bezerra].
 
 ## Sobre Mim:
-- Localização:*Rio de Janeiro, Brasil**
+- Localização: **Rio de Janeiro, Brasil**
 - **Atualmente estou buscando estágio para aprimorar minhas habilidades e meus conhecimentos, visando me desenvolver profissionalmente.**
 
 ## Habilidades
